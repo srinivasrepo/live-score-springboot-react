@@ -7,7 +7,7 @@
 3. Spring Security - JWT.
 4. Spring Data JPA.
 5. Scheduler.
-6. MySQL.
+6. Sql Server.
 7. Unit Testing.
 8. Maven
 9. React.
